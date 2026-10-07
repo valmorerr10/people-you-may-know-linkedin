@@ -11,7 +11,8 @@ People You May Know es la función de Linkedin la cual le sugiere a cada usuario
 
 ### CIENTÍFICO DE DATOS A CARGO:
 
-| DATO | INFORMACIÓN |
+| DATO   | INFORMACIÓN |
+|------|-------------|
 | Nombre | Jonathan Goldman |
 | Formación | PhD en Física, Universidad de Stanford |
 | Cargo | Científico de datos en LinkedIn |
