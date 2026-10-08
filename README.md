@@ -4,7 +4,7 @@
 
 ### El proyecto que definió el oficio de científico de datos
 
-**Jerson Daniel Fadiño Bohorquez, Valmore Rodriguez Rosales, Samuel Pinzón Vega, Samuel Alfonso Fuentes Barrera** · Sección A   
+**Jerson Daniel Fandiño Bohorquez, Valmore Rodriguez Rosales, Samuel Pinzón Vega, Samuel Alfonso Fuentes Barrera** · Sección A   
 Introducción a la Ciencia de Datos — DATA1001
 Universidad de los Andes · 2026
 
